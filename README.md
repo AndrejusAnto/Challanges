@@ -1,4 +1,4 @@
 # Challanges
-Įveikti iššūkiai:
+Įveikti iššūkiai (Deja, bet teks patikėt, kad nebuvo žiūrėta į galimus atsakymus ir sprendimai sugalvoti pačio ;):
 Scrabble - http://wiki.openhatch.org/Scrabble_challenge
-Deja, bet teks patikėt, kad nebuvo žiūrėta į galimus atsakymus ir sprendimai sugalvoti pačio ;).
+
