@@ -1,1 +1,1 @@
-
+Komandine eilute "python3 quiz.py quizfilename.txt" (pavyzdinis failas github'e teams.txt), tekstinio failo struktūra: "klausimas,atsakymas". Tada bus pateikiamas klausimas ir teisigai atsakius, atsakymas "Teisingai" ir atvirkščiai. Norint išeiti, reikia suvesti "baigti" 
