@@ -1,0 +1,20 @@
+Arsenal,London
+Bournemouth,Bournemouth
+Brighton & Hove Albion,Brighton
+Burnley,Burnley
+Chelsea,London
+Crystal Palace,London
+Everton,Liverpool
+Huddersfield Town,Huddersfield
+Leicester City,Leicester
+Liverpool,Liverpool
+Manchester City,Manchester
+Manchester United,Manchester
+Newcastle United,Newcastle
+Southampton,Southampton
+Stoke City,Stoke
+Swansea City,Swansea
+Tottenham Hotspur,London
+Watford,Watford
+West Bromwich Albion,West Bromwich
+West Ham United,London
