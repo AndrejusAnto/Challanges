@@ -3,3 +3,4 @@
 
 Scrabble - http://wiki.openhatch.org/Scrabble_challenge
 
+Quiz - http://wiki.openhatch.org/Flash_card_challenge
