@@ -1,1 +1,1 @@
-
+Supapratinas Bingo tipo žaidimas. Atsitikine tvarka pateikiami 10 skaičių Bingo "lentelėje" (iš viso 100), suvedus skaičių (imituojant Bingo žaidimo ištrauktą skaičių), lentelėje tas skaičius dingsta. Žaidimas baigiasi, kai nelieka nė vieno skaičiaus ir užskaitoma kaip laimėjimas. Žaidimą galima baigti anksčiau suvedus "baigti". Jei įvedama raidė arba neesantis skaičius, išmetamas atitinkamas pranešimas.
