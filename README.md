@@ -1,5 +1,5 @@
 # Challanges
-Įveikti iššūkiai (deja, bet teks patikėt, kad nebuvo žiūrėta į galimus atsakymus ir sprendimai sugalvoti pačio ;) ):
+Įveikti iššūkiai (deja, bet teks patikėt, kad nebuvo žiūrėta į galimus atsakymus ir sprendimai sugalvoti pačio ;), google'ta ir toks atskiros sprendimų dalys, pvz. how to convert list to string:
 
 Scrabble - http://wiki.openhatch.org/Scrabble_challenge
 
