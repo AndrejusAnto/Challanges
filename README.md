@@ -12,3 +12,5 @@ Fibonacci - http://www.practicepython.org/exercise/2014/04/30/13-fibonacci.html
 Tic Tac Toe tipo lentelė - http://www.practicepython.org/exercise/2014/12/27/24-draw-a-game-board.html
 
 Tic Tac Toe (žaidimas) - http://www.practicepython.org/exercise/2016/08/03/29-tic-tac-toe-game.html
+
+Hangman - http://www.practicepython.org/exercise/2017/01/10/32-hangman.html, žodžių sąrašas paiimtas iš čia http://donelaitis.vdu.lt/main.php?id=4&nr=2
