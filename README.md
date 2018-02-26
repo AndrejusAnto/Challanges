@@ -14,3 +14,5 @@ Tic Tac Toe tipo lentelė - http://www.practicepython.org/exercise/2014/12/27/24
 Tic Tac Toe (žaidimas) - http://www.practicepython.org/exercise/2016/08/03/29-tic-tac-toe-game.html
 
 Hangman - http://www.practicepython.org/exercise/2017/01/10/32-hangman.html, žodžių sąrašas paiimtas iš čia http://donelaitis.vdu.lt/main.php?id=4&nr=2
+
+Sum67 (sudėtingesnis list'ų manipuliavimas) - http://codingbat.com/prob/p108886
