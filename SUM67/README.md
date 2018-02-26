@@ -1,1 +1,1 @@
-
+Į funkciją perdavus list'ą, kuriame bent vieną 6, lydi būtinai 7, grąžinama bendra suma skaičių, bet neįskaitant skaičių esančių 6 ir 7. Šiaip neesu tikras ar pagal duotą sąlygą teisingai išsprendžiau.
